@@ -1,10 +1,25 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Project Docker To do list
+
+The Project is a To do List, where the objective was create docker containers for the App to practice.
+
+
+## Technologies Used
+
+* Docker
+
+
+## What was built?
+
+*Containers for the App.
+
+## How to run the project?
+
+* Its necessary to clone the project using Git clone.
+
+* After clone the project, you can start it with the following command:
+```
+npm install
+```
+ 
+ ## More Info
+ This project is based by [Trybe](https://www.betrybe.com/) and contains Copyright.
